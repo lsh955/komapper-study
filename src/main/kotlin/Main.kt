@@ -1,4 +1,5 @@
 import dto.Employee
+import dto.employee
 import org.komapper.core.dsl.Meta
 import org.komapper.core.dsl.QueryDsl
 import org.komapper.jdbc.JdbcDatabase
